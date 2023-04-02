@@ -15,5 +15,12 @@
     },
     "dependencies": {
         "com.unity.textmeshpro": "3.0.6"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "ExampleScene",
+            "description": "A simple example scene for the system and how to apply it",
+            "path": "Samples~/ExampleScene"
+        }
+    ]    
 }
