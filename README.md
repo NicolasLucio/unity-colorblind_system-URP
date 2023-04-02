@@ -24,3 +24,5 @@ If you want to try it, you can do it <a href="https://abismostudios.github.io/pr
 ## Unity Package
 
 There is a package on the release area, you can get it <a href="https://github.com/NicolasLucio/unity-colorblind_system-URP/releases">here</a>
+
+You can try the UPM way with `https://github.com/NicolasLucio/unity-colorblind_system-URP.git?path=Assets`
