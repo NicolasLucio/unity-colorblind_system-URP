@@ -75,6 +75,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Tt]ext[Mm]esh[Pp]ro.meta
 /[Aa]ssets/[Tt]ext[Mm]esh[Pp]ro/*
 
+/[Aa]ssets/[Ss]ample~.meta
+
 # URP Sample Archvies
 /[Aa]ssets/[Ss]ettings/[Uu][Rr][Pp].meta
 /[Aa]ssets/[Ss]ettings/[Uu][Rr][Pp]/*
