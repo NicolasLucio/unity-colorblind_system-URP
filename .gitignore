@@ -74,3 +74,18 @@ crashlytics-build.properties
 # Personalizado
 /[Aa]ssets/[Tt]ext[Mm]esh[Pp]ro.meta
 /[Aa]ssets/[Tt]ext[Mm]esh[Pp]ro/*
+
+# URP Sample Archvies
+/[Aa]ssets/Readme.asset
+/[Aa]ssets/Readme.asset.meta
+/[Aa]ssets/[Ss]ettings/ForwardRenderer.asset
+/[Aa]ssets/[Ss]ettings/ForwardRenderer.asset.meta
+/[Aa]ssets/[Ss]ettings/SampleSceneProfile.asset
+/[Aa]ssets/[Ss]ettings/SampleSceneProfile.asset.meta
+
+/[Aa]ssets/[Ss]ettings/UniversalRP-HighQuality.asset
+/[Aa]ssets/[Ss]ettings/UniversalRP-HighQuality.asset.meta
+/[Aa]ssets/[Ss]ettings/UniversalRP-LowQuality.asset
+/[Aa]ssets/[Ss]ettings/UniversalRP-LowQuality.asset.meta
+/[Aa]ssets/[Ss]ettings/UniversalRP-MediumQuality.asset
+/[Aa]ssets/[Ss]ettings/UniversalRP-MediumQuality.asset.meta
