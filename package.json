@@ -1,0 +1,19 @@
+{
+    "name": "com.abismo-studios.abismo-colorblind",
+    "version": "2.0.0",
+    "displayName": "Colorblind System",
+    "description": "A simple way to apply a Colorblind System with Volume for URP ",
+    "unity": "2020.3",
+    "keywords": [
+        "colorblind",
+        "accessibility"
+    ],
+    "author": {
+        "name": "Nícolas Lúcio",
+        "email": "nicolasslucio@gmail.com",
+        "url": "https://abismostudios.com.br/"
+    },
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+    }
+}
